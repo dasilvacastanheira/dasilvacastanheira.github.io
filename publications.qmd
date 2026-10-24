@@ -27,7 +27,7 @@ about:
       href: "https://orcid.org/0000-0002-7022-9009"
     - icon: github
       text: GitHub
-      href: "https://github.com/jasondsc"
+      href: "https://github.com/dasilvacastanheira"
 ---
 
 
