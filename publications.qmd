@@ -1,0 +1,56 @@
+:::: {.columns}
+::: {.column-screen-inset-left width="5%"}
+
+
+---
+title: "Jason da Silva Castanheira"
+subtitle: "Postdoctoral Research Fellow"
+about: 
+  template: trestles
+  image: profile.jpg
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:j.castanheira@ucl.ac.uk"
+    - icon: mortarboard-fill
+      text: Scholar
+      href: "https://scholar.google.ca/citations?user=sXxW8FIAAAAJ&hl=en&authuser=1"
+    - icon: bluesky
+      text: Bluesky
+      href: "https://bsky.app/profile/jasondasilvac.bsky.social"
+    - icon: linkedin
+      text: Linkedin
+      href: "https://www.linkedin.com/in/jason-da-silva-castanheira-834a132b8/"
+    - icon: ORCID
+      text: ORCID
+      href: "https://orcid.org/0000-0002-7022-9009"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/jasondsc"
+---
+
+
+---
+title: "Jason da Silva Castanheira"
+execute:
+  freeze: false
+---
+:::
+
+```{r}
+#| include: false
+source("bibtools.R")
+```
+
+
+::: {.column-screen-inset-left width="95%"}
+Below is a list of selected paper I've published with some cool people. Please [email me](mailto:j.castanheira@ucl.ac.uk) if anything is behind a paywall.
+
+```{r}
+#| echo: false
+#| output: asis
+render_by_year("publications.bib", csl = "apa.csl")
+```
+:::
+::::

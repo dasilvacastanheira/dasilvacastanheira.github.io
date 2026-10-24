@@ -1,0 +1,8 @@
+---
+title: "Page not found"
+---
+
+That page doesn't exist — it may have moved, or the link may be out of date.
+
+- [Home](index.qmd)
+- [Publications](publications.qmd)

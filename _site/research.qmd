@@ -1,0 +1,65 @@
+:::: {.columns}
+::: {.column-screen-inset-left width="5%"}
+
+---
+title: "Jason da Silva Castanheira"
+subtitle: "Postdoctoral Research Fellow"
+about: 
+  template: trestles
+  image: profile.jpg
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:j.castanheira@ucl.ac.uk"
+    - icon: mortarboard-fill
+      text: Scholar
+      href: "https://scholar.google.ca/citations?user=sXxW8FIAAAAJ&hl=en&authuser=1"
+    - icon: bluesky
+      text: Bluesky
+      href: "https://bsky.app/profile/jasondasilvac.bsky.social"
+    - icon: linkedin
+      text: Linkedin
+      href: "https://www.linkedin.com/in/jason-da-silva-castanheira-834a132b8/"
+    - icon: ORCID
+      text: ORCID
+      href: "https://orcid.org/0000-0002-7022-9009"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/jasondsc"
+---
+
+---
+title: "Jason da Silva Castanheira"
+execute:
+  freeze: false
+---
+
+:::
+
+```{r}
+#| include: false
+source("bibtools.R")
+```
+
+
+::: {.column-screen-inset-left width="95%"}
+
+My research is broadly interested in tackling how brain rhythms can explain our unique behavioural patterns and subjective experiences
+
+#### Attention & Consciousness
+hello world
+
+#### Brain Rhythms
+hello world
+
+#### Inter-individual differences 
+We all have the intuition that we are unique individuals; but how unique is your brain (activity)? Researcher, including myself, have pioneered techniques to study this question. 
+
+![brain-fingerprinting across the lifespan](b-fp-life.png)
+
+[Finn and colleagues in 2015](https://www.nature.com/articles/nn.4135) first put forward the idea of a brain-fingerprint: *brain activity that  differentiates you from a cohort of people*.  Since then, the field has shown that individuals can be differentiated from one another using [brief 30-second recordings of brain activity](https://www.nature.com/articles/s41467-021-25895-8), the features that set us apart from one another [differ across the lifespan](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01429-9), and that these [brain-fingerprints are heritable](https://www.science.org/doi/full/10.1126/sciadv.ads7544). 
+
+:::
+::::
+

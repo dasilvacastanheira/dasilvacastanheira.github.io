@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Jason da Silva Castanheira"
+  description: "Academic homepage of Jason da Silva Castanheira."
+  site-url: "https://dasilvacastanheira.github.io"
+  navbar:
+    left:
+      - href: Research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: publications.qmd
+        text: Publications
+      - href: Teaching.qmd
+        text: Resources
+      - href: friends.qmd
+        text: Collaborators
+    right:
+      - icon: envelope
+        href: "mailto:j.castanheira@ucl.ac.uk"
+        aria-label: Email
+      - icon: bluesky
+        href: "https://bsky.app/profile/jasondasilvac.bsky.social"
+        aria-label: BlueSky
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/jason-da-silva-castanheira-834a132b8/"
+        aria-label: Linkedin
+      - icon: mortarboard-fill
+        href: "https://scholar.google.ca/citations?user=sXxW8FIAAAAJ&hl=en&authuser=1"
+        aria-label: Scholar
+  page-footer:
+    left: "© 2026 Jason da Silva Castanheira"
+    right: "Built with [Quarto](https://quarto.org)"
+  reader-mode: false
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 900px
+
+execute:
+  freeze: auto
