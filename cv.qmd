@@ -47,6 +47,8 @@ source("bibtools.R")
 
 Below is a PDF copy of my CV. If the webpage is having trouble loading the document, please refresh the page.
 
+Hello
+
 <iframe id='cv-iframe' src="https://docs.google.com/gview?url=https://github.com/dasilvacastanheira/dasilvacastanheira.github.io/raw/master/CV_daSilvaCastanheira_2026.pdf&embedded=true" style="margin: auto; width: 100%;" height="1000" frameborder="0" >
 </iframe>
 
