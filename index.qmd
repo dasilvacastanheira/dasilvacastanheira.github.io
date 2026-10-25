@@ -2,7 +2,8 @@
 ::: {.column-screen-inset-left width="5%"}
 
 ---
-title: "Jason da Silva Castanheira"
+title: "Jason da Silva 
+Castanheira"
 subtitle: "Postdoctoral Research Fellow"
 about: 
   template: trestles
