@@ -65,7 +65,7 @@ In the future, I wish to explore:
 #### Brain Rhythms
 Since the invention of EEG, over a century ago, people have been interested in measuring brain rhythms. This isn't always easy! Brain activity is characterized by several brain rhythms and by background *noise*. This background *noise*, however, relates to people's age and predicts cognitive performance. Yet, the question remains: ***how do we measure rhythmic and arrhythmic brain activity*** and ***how do these components contribute to our subjective experiences***?
 
-![Rhythmic and arrhythmic brain activity](rhythmic.png)
+![Rhythmic and arrhythmic brain activity, image adapted from Luc Wilson](rhythmic.png)
 
 We have made available tools to parameterize the neural power spectrum using [Bayesian model selection](https://pmc.ncbi.nlm.nih.gov/articles/PMC11326208/) and [time-resolved estimates of arrhythmic and rhythmic brain activity](https://elifesciences.org/articles/77348).
 
