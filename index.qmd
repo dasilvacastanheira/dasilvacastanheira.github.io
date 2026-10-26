@@ -6,7 +6,7 @@ title: "Jason da Silva Castanheira"
 subtitle: "Postdoctoral Research Fellow"
 about: 
   template: trestles
-  image: HEADSHOT.jpg
+  image: headshot.jpg
   image-shape: round
   links:
     - icon: envelope
