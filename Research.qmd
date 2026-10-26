@@ -6,8 +6,8 @@ title: "Jason da Silva Castanheira"
 subtitle: "Postdoctoral Research Fellow"
 about: 
   template: trestles
-  image: profile.jpg
-  image-shape: rectangle
+  image: HEADSHOT.jpg
+  image-shape: round
   links:
     - icon: envelope
       text: Email
@@ -51,6 +51,8 @@ My research is broadly interested in tackling how brain rhythms can explain our 
 Our senses are constantly bombarded with information. We must select a subset of this information to preferentially process. I am interested in these attention-orienting processes. Specifically, my research examines i) ***how different types of attention systems interact with one another*** and ii) ***how we construe our environment in service of our goals***.
 
 Recently, I have examined attention biases in how people construe problems for planning. Using computational modelling, I’ve explored visuospatial attentional biases in how we construe problems both tied to perception and from our imaginations.
+
+![Studying how people select task-relevant information to construe](RIFT.png)
 
 In the future, I wish to explore:
 
