@@ -45,12 +45,14 @@ source("bibtools.R")
 
 ::: {.column-screen-inset-left width="95%"}
 
-My research is broadly interested in tackling how brain rhythms can explain our unique behavioural patterns and subjective experiences
+I am interested in ***how brain rhythms relate to our unique behaviours and subjective experiences***.
 
-#### Attention & Consciousness
+My research falls under three main themes:
+
+#### How does attention shape our conscious experiences?
 Our senses are constantly bombarded with information. We must select a subset of this information to preferentially process. I am interested in these attention-orienting processes. Specifically, my research examines i) ***how different types of attention systems interact with one another*** and ii) ***how we construe our environment in service of our goals***.
 
-Recently, I have examined attention biases in how people construe problems for planning. Using computational modelling, I’ve explored visuospatial attentional biases in how we construe problems both tied to perception and from our imaginations.
+Recently, I have examined attention biases in how people construe problems for planning. Using computational modelling, I’ve explored visuospatial attentional biases in how we build mental representations.
 
 ![Studying how people select task-relevant information to construe](RIFT.png)
 
@@ -58,11 +60,11 @@ In the future, I wish to explore:
 
 * How people construe problems from their imagination.
 
-* •	How people simultaneously orient their attention internally and externally to guide adaptive behaviours.
+* How people simultaneously orient their attention internally and externally to guide adaptive behaviours.
 
 * How construal processes go awry in mental health.
 
-#### Brain Rhythms
+#### How to measure brain rhythms?
 Since the invention of EEG, over a century ago, people have been interested in measuring brain rhythms. This isn't always easy! Brain activity is characterized by several brain rhythms and by background *noise*. This background *noise*, however, relates to people's age and predicts cognitive performance. Yet, the question remains: ***how do we measure rhythmic and arrhythmic brain activity*** and ***how do these components contribute to our subjective experiences***?
 
 ![Rhythmic and arrhythmic brain activity, image adapted from Luc Wilson](rhythmic.png)
@@ -73,14 +75,14 @@ I've also explored, using simulations, best practices for detrending neural powe
 
 ![Methodologies for quantifying arrhythmic and rhythmic brain activity](quant.png)
 
-#### Inter-individual differences 
+#### How do our brains differ from one another?
 We all have the intuition that we are unique individuals; but ***how unique is your brain (activity)?*** Researchers, including myself, have pioneered techniques to study this question. 
 
 [Finn and colleagues in 2015](https://www.nature.com/articles/nn.4135) first put forward the idea of a brain-fingerprint: *brain activity that  differentiates you from a cohort of people*. Much like a fingerprint left by your hand we can distinguish people from one another using these *brain-fingerprints*. But unlike the fingerprints left by your hand, brain-fingerprints relate to inter-individual differences in cognitive performance and are shaped by demographic variables.
 
 My work on brain-fingerprinting established that individuals can be differentiated from one another using [brief 30-second recordings of brain activity](https://www.nature.com/articles/s41467-021-25895-8). People's unique brain rhythms are remarkably stable across months!
 
-I've also shown that monozygotic (identical) twins have very similar brain-fingerprints. This suggests that [brain-fingerprints are heritable](https://www.science.org/doi/full/10.1126/sciadv.ads7544)! Unique patterns of brain rhythms also relate to patterns of cortical gene expression.
+I've also shown that monozygotic (identical) twins have very similar brain-fingerprints compared to dizygotic (faternal) twins. This suggests that [brain-fingerprints are heritable](https://www.science.org/doi/full/10.1126/sciadv.ads7544)! Unique patterns of brain rhythms also relate to patterns of cortical gene expression.
 
 ![Rhythmic brain activity distinguishes between people and is related to cortical gene expression](b-fp-gene.png)
 
@@ -90,7 +92,7 @@ The features that set us apart from one another also [differ across the lifespan
 
 Moving forward, I wish to explore:
 
-* What life-changing moments permanently change our unique brain rhythms?
+* How defining life events permanently change our unique brain rhythms?
 
 * How do brain rhythms relate to how we perceive and experience the world?
 
