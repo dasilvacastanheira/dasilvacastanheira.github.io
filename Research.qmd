@@ -48,26 +48,26 @@ source("bibtools.R")
 My research is broadly interested in tackling how brain rhythms can explain our unique behavioural patterns and subjective experiences
 
 #### Attention & Consciousness
-Our senses are constantly bombarded with information. We must select a subset of this information to preferentially process. I am interested in these attention orienting processes. Specifically, my research examines i) ***how different types of attention systems interact with one another*** and ii) ***how we construe our environment in service of our goals***.
+Our senses are constantly bombarded with information. We must select a subset of this information to preferentially process. I am interested in these attention-orienting processes. Specifically, my research examines i) ***how different types of attention systems interact with one another*** and ii) ***how we construe our environment in service of our goals***.
 
-Recently, I have examined attention biases in how people construe problems for planning. using computational modelling, I've explored visuospatial attentional biases in how we construe problems both tied to percpetion and from our imaginations. 
+Recently, I have examined attention biases in how people construe problems for planning. Using computational modelling, I’ve explored visuospatial attentional biases in how we construe problems both tied to perception and from our imaginations.
 
 In the future, I wish to explore:
 
 * How people construe problems from their imagination.
 
-* How people simultaneously orient their attention internally and externally to guide adptive behaviours.
+* •	How people simultaneously orient their attention internally and externally to guide adaptive behaviours.
 
 * How construal processes go awry in mental health.
 
 #### Brain Rhythms
-Since the invention of EEG, over a century ago, people have been interested in measuring brain rhythms. This isn't always easy! Brain activity is characterized by several brain rhythms and by background *noise*. This background *noise*, however, relates to people's age and predicts cognitive performance. Yet, the question remains ***how do we measure rhythmic and arrhythmic brain activity*** and ***how do these components contribute to our subjective experiences***.
+Since the invention of EEG, over a century ago, people have been interested in measuring brain rhythms. This isn't always easy! Brain activity is characterized by several brain rhythms and by background *noise*. This background *noise*, however, relates to people's age and predicts cognitive performance. Yet, the question remains: ***how do we measure rhythmic and arrhythmic brain activity*** and ***how do these components contribute to our subjective experiences***?
 
 ![Rhythmic and arrhythmic brain activity](rhythmic.png)
 
-We have made available tools to paramertize the neural power spectrum using [Bayesian model selection](https://pmc.ncbi.nlm.nih.gov/articles/PMC11326208/) and [time resolved estimates of arrhythmic and rhythmic brain activity](https://elifesciences.org/articles/77348).
+We have made available tools to parameterize the neural power spectrum using [Bayesian model selection](https://pmc.ncbi.nlm.nih.gov/articles/PMC11326208/) and [time-resolved estimates of arrhythmic and rhythmic brain activity](https://elifesciences.org/articles/77348).
 
-I've also explored, using simulations, best practices for detrending neural power spectra. Here, we find that **modeled rhythmic power** is the best way to decompose arrhythmic and rhythmic components without introducing spurious relationships between the components.
+I've also explored, using simulations, best practices for detrending neural power spectra. Here, we find that **modelled rhythmic power** is the best way to decompose arrhythmic and rhythmic components without introducing spurious relationships between the components.
 
 ![Methodologies for quantifying arrhythmic and rhythmic brain activity](quant.png)
 
@@ -82,15 +82,15 @@ I've also shown that monozygotic (identical) twins have very similar brain-finge
 
 ![Rhythmic brain activity distinguishes between people and is related to cortical gene expression](b-fp-gene.png)
 
-The features that set us apart from one another also [differ across the lifespan](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01429-9), with rhythmic brain activity being particulalry good at distinguishing individuals across the entire lifespan. 
+The features that set us apart from one another also [differ across the lifespan](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01429-9), with rhythmic brain activity being particularly good at distinguishing individuals across the entire lifespan.
 
 ![Brain-fingerprinting across the lifespan](b-fp-life.png)
 
 Moving forward, I wish to explore:
 
-* What life-chaining moments permanently change our unique brain rhythms?
+* What life-changing moments permanently change our unique brain rhythms?
 
-* How do brain rhythms relate to how we percieve and experience the world?
+* How do brain rhythms relate to how we perceive and experience the world?
 
 :::
 ::::
